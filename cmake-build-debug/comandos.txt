@@ -1,0 +1,9 @@
+animal o 0 0
+food b 0 1
+food a 0 2
+animal g 0 3
+killid 1
+nofood 2
+animal l
+feedid 6 10 10
+info 6

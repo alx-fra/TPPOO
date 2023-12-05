@@ -1,0 +1,22 @@
+# ninja log v5
+27	3934	6949295220000000	CMakeFiles/Meta2POO.dir/Objetos/Especificacao/Categoria.cpp.obj	3dfa678015d1b351
+16	8925	6948208360000000	CMakeFiles/Meta2POO.dir/Animal.cpp.obj	2d36e84be40063b2
+2	631	6949362620000000	build.ninja	c69ed80a7d1da1b1
+15	3008	6941076900000000	CMakeFiles/Meta2POO.dir/Comida.cpp.obj	ec72794124c8a681
+21	6786	6948208340000000	CMakeFiles/Meta2POO.dir/Alimento.cpp.obj	1fe89bf3f5b85862
+14	3377	6948305300000000	CMakeFiles/Meta2POO.dir/Categoria.cpp.obj	9a62f8835d61fa72
+43	1105	6948314380000000	CMakeFiles/Meta2POO.dir/Terminal.cpp.obj	9dcf1aed0dd0f11c
+13	3876	6949296840000000	CMakeFiles/Meta2POO.dir/main.cpp.obj	2dcd8d2443ba74c6
+4447	6814	6949311320000000	Meta2POO.exe	f1c65902b10bb406
+18	164	6948310560000000	CMakeFiles/Meta2POO.dir/Constantes.cpp.obj	2ad85ab9c851a900
+23	7546	6948314740000000	CMakeFiles/Meta2POO.dir/Reserva.cpp.obj	5e0d62e941064d29
+19	3463	6948305300000000	CMakeFiles/Meta2POO.dir/Especie.cpp.obj	49e2283850756558
+6004	8464	6949276760000000	CMakeFiles/Meta2POO.dir/helpers.cpp.obj	e841ac16db4a5fd6
+39	6035	6949276720000000	CMakeFiles/Meta2POO.dir/Objetos/Animal.cpp.obj	826d3221b873fae6
+22	3888	6949295220000000	CMakeFiles/Meta2POO.dir/Objetos/Especificacao/Especie.cpp.obj	883f08f3c303e3c6
+30	6004	6949276720000000	CMakeFiles/Meta2POO.dir/Objetos/Alimento.cpp.obj	4d736dee03d0eef3
+12	1085	6949202320000000	CMakeFiles/Meta2POO.dir/Objetos/Especificacao/Comida.cpp.obj	7c60cecc839b898d
+21	3498	6948315100000000	CMakeFiles/Meta2POO.dir/Visual/Terminal.cpp.obj	ad6872e403658776
+11	4446	6949311300000000	CMakeFiles/Meta2POO.dir/Visual/Reserva.cpp.obj	a57a06e52dd81a05
+6	1214	6949364300000000	CMakeFiles/Meta2POO.dir/main.cpp.obj	2dcd8d2443ba74c6
+1214	1683	6949364300000000	Meta2POO.exe	f1c65902b10bb406
